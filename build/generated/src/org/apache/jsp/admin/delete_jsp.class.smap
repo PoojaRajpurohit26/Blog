@@ -1,0 +1,10 @@
+SMAP
+delete_jsp.java
+JSP
+*S JSP
+*F
++ 0 delete.jsp
+admin/delete.jsp
+*L
+5,32:45
+*E
